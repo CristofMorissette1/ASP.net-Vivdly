@@ -76,3 +76,7 @@ C:\Users\crist\OneDrive\Documents\Code_Projects\Vivdly\Vivdly\obj\Debug\Vivdly.c
 C:\Users\crist\OneDrive\Documents\Code_Projects\Vivdly\Vivdly\obj\Debug\Vivdly.dll
 C:\Users\crist\OneDrive\Documents\Code_Projects\Vivdly\Vivdly\obj\Debug\Vivdly.pdb
 C:\Users\crist\OneDrive\Documents\Code_Projects\Vivdly\Vivdly\obj\Debug\Vivdly.csprojAssemblyReference.cache
+C:\Users\cmorissette\Documents\Code-Stuff\ASP.net-Vivdly\obj\Debug\Vivdly.dll
+C:\Users\cmorissette\Documents\Code-Stuff\ASP.net-Vivdly\obj\Debug\Vivdly.pdb
+C:\Users\cmorissette\Documents\Code-Stuff\ASP.net-Vivdly\obj\Debug\Vivdly.csprojAssemblyReference.cache
+C:\Users\cmorissette\Documents\Code-Stuff\ASP.net-Vivdly\obj\Debug\Vivdly.csproj.CoreCompileInputs.cache
