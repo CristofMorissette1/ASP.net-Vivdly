@@ -16,5 +16,11 @@ namespace Vivdly.Controllers
 
             return View(movie);
         }
+        
+        [Route("movies/released/{year:regex(\\d{4})}/{month}")]
+        public ActionResult ByReleaseDate(int year, int month)
+        {
+            return Content(year + "/" + month);
+        }
     }
 }
